@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/ja3gduosctc/proprietary/etc/ymc/param,system/etc/ymc/param)
 PRODUCT_COPY_FILES += \
+    vendor/samsung/ja3gduosctc/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/ja3gduosctc/proprietary/bin/secgpsd:system/bin/secgpsd \
     vendor/samsung/ja3gduosctc/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/ja3gduosctc/proprietary/lib/hw/audio.primary.vendor.universal5410.so:system/lib/hw/audio.primary.vendor.universal5410.so \
