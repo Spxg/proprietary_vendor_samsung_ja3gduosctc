@@ -172,12 +172,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gduosctc/proprietary/etc/ymc/param/aec_vbox_bypass.dat:system/etc/ymc/param/aec_vbox_bypass.dat \
     vendor/samsung/ja3gduosctc/proprietary/etc/ymc/param/aec_vbox_bypass_nb.dat:system/etc/ymc/param/aec_vbox_bypass_nb.dat \
     vendor/samsung/ja3gduosctc/proprietary/etc/ymc/param/aec_vbox_bypass_wb.dat:system/etc/ymc/param/aec_vbox_bypass_wb.dat \
-    vendor/samsung/ja3gduosctc/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/hw/audio.primary.vendor.universal5410.so:system/lib/hw/audio.primary.vendor.universal5410.so \
-    vendor/samsung/ja3gduosctc/proprietary/lib/hw/audio.usb.default.so:system/lib/hw/audio.usb.default.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/hw/audio_policy.universal5410.so:system/lib/hw/audio_policy.universal5410.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/hw/gps.exynos5.so:system/lib/hw/gps.exynos5.so \
-    vendor/samsung/ja3gduosctc/proprietary/lib/hw/gps.goldfish.so:system/lib/hw/gps.goldfish.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/lib_SamsungRec_V03011b.so:system/lib/lib_SamsungRec_V03011b.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/lib_Samsung_AudioZoom_v102.so:system/lib/lib_Samsung_AudioZoom_v102.so \
